@@ -1,0 +1,15 @@
+E:\Lecture2024-2025\bCSP7C\BCSP7C\bin\Debug\BCSP7C.exe.config
+E:\Lecture2024-2025\bCSP7C\BCSP7C\bin\Debug\BCSP7C.exe
+E:\Lecture2024-2025\bCSP7C\BCSP7C\bin\Debug\BCSP7C.pdb
+E:\Lecture2024-2025\bCSP7C\BCSP7C\obj\Debug\BCSP7C.csprojResolveAssemblyReference.cache
+E:\Lecture2024-2025\bCSP7C\BCSP7C\obj\Debug\BCSP7C.frmCategory.resources
+E:\Lecture2024-2025\bCSP7C\BCSP7C\obj\Debug\BCSP7C.frmLogin.resources
+E:\Lecture2024-2025\bCSP7C\BCSP7C\obj\Debug\BCSP7C.frmMain.resources
+E:\Lecture2024-2025\bCSP7C\BCSP7C\obj\Debug\BCSP7C.frmProduct.resources
+E:\Lecture2024-2025\bCSP7C\BCSP7C\obj\Debug\BCSP7C.frmSell.resources
+E:\Lecture2024-2025\bCSP7C\BCSP7C\obj\Debug\BCSP7C.frmUnit.resources
+E:\Lecture2024-2025\bCSP7C\BCSP7C\obj\Debug\BCSP7C.Properties.Resources.resources
+E:\Lecture2024-2025\bCSP7C\BCSP7C\obj\Debug\BCSP7C.csproj.GenerateResource.Cache
+E:\Lecture2024-2025\bCSP7C\BCSP7C\obj\Debug\BCSP7C.exe
+E:\Lecture2024-2025\bCSP7C\BCSP7C\obj\Debug\BCSP7C.pdb
+E:\Lecture2024-2025\bCSP7C\BCSP7C\obj\Debug\BCSP7C.frmOrderProduct.resources
